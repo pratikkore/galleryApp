@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/pratikkore/static/css/main.cce8f606.css",
+    "main.js": "/pratikkore/static/js/main.bdca2e97.js",
+    "static/js/787.f4103948.chunk.js": "/pratikkore/static/js/787.f4103948.chunk.js",
+    "static/media/img2.jpg": "/pratikkore/static/media/img2.440eb5dff6b35f54d382.jpg",
+    "static/media/img3.jpg": "/pratikkore/static/media/img3.212c3d2abd0d21b68d39.jpg",
+    "static/media/img1.jpg": "/pratikkore/static/media/img1.68e60b1ef523be844082.jpg",
+    "static/media/img5.jpg": "/pratikkore/static/media/img5.97b6136d42bc55575c07.jpg",
+    "static/media/img6.jpg": "/pratikkore/static/media/img6.dc57ac50d91dec697d5b.jpg",
+    "static/media/img4.jpg": "/pratikkore/static/media/img4.176bd988fd73254b10dd.jpg",
+    "index.html": "/pratikkore/index.html",
+    "main.cce8f606.css.map": "/pratikkore/static/css/main.cce8f606.css.map",
+    "main.bdca2e97.js.map": "/pratikkore/static/js/main.bdca2e97.js.map",
+    "787.f4103948.chunk.js.map": "/pratikkore/static/js/787.f4103948.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cce8f606.css",
+    "static/js/main.bdca2e97.js"
+  ]
+}
