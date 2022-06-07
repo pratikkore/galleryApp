@@ -2,7 +2,7 @@
   "name": "galleryapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/pratikkore",
+  "homepage": "https://github.com/pratikkore/galleryApp",
   "dependencies": {
     "-": "^0.0.1",
     "@emotion/react": "^11.9.0",
